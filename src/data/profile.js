@@ -18,9 +18,9 @@ export const profile = {
     "Today I work in Python, SQL, Power BI and Scikit-learn: cleaning messy data, exploring it, building predictive models and packaging the results into interactive dashboards.",
   ],
   highlights: [
-    "Documented and quality-controlled records for 1,700+ malaria slides and dried blood spot samples from multiple states.",
-    "Co-authored a peer-reviewed paper in the African Journal of Clinical and Experimental Microbiology.",
-    "Built end-to-end projects: a diabetes risk model with SMOTE and GridSearchCV, and a Streamlit sanitation dashboard.",
+    "Built end-to-end data science projects with Python and Streamlit.",
+    "Applied machine learning techniques including SMOTE and GridSearchCV.",
+    "Analysed healthcare and public health data to uncover meaningful insights.",
   ],
 };
 
