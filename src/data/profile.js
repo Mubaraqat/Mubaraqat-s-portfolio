@@ -126,7 +126,6 @@ export const experience = [
 export const education = {
   degree: "Bachelor of Medical Laboratory Science (B.MLS)",
   school: "University of Ibadan, College of Medicine, Nigeria",
-  period: "2017 – 2024",
 };
 
 export const training = {
@@ -137,13 +136,10 @@ export const training = {
 };
 
 export const certifications = [
-  { name: "Foundations of Data Science", issuer: "Google", year: "2026" },
-  { name: "Get Started with Python", issuer: "Google", year: "2026" },
-  { name: "Go Beyond the Numbers: Translate Data into Insights", issuer: "Google", year: "2026" },
-  { name: "The Power of Statistics", issuer: "Google", year: "2026" },
-  { name: "Regression Analysis", issuer: "Google", year: "2026" },
+  { name: "Google Advanced Data Analytics", issuer: "Google", year: "2026" },
   { name: "Data Science: Python for Data Analysis Full Bootcamp", issuer: "Udemy", year: "2026" },
   { name: "Excel Basics for Data Analysis", issuer: "IBM", year: "2024" },
+  { name: "Bioinformatics for Biologist", issuer: "FutureLearn", year: "2023" },
 ];
 
 export const publication = {
