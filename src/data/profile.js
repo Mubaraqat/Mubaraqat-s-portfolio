@@ -4,7 +4,7 @@
 
 export const profile = {
   name: "Yemi Mubaraqat Onifade",
-  shortName: "Yemi Onifade",
+  shortName: "Yemi Mubaraqat Onifade",
   role: "Data Scientist",
   headline: "I turn health and public-service data into models and dashboards people can act on.",
   location: "Nigeria",
@@ -29,40 +29,40 @@ export const skillGroups = ["Programming", "Analysis", "Visualization", "Machine
 
 export const skills = [
   { name: "Python", level: 85, group: "Programming" },
-  { name: "SQL", level: 78, group: "Programming" },
+  { name: "SQL", level: 75, group: "Programming" },
   { name: "Pandas", level: 85, group: "Programming" },
-  { name: "NumPy", level: 78, group: "Programming" },
+  { name: "NumPy", level: 85, group: "Programming" },
   { name: "Excel", level: 90, group: "Programming" },
 
-  { name: "Data Cleaning", level: 88, group: "Analysis" },
+  { name: "Data Cleaning", level: 95, group: "Analysis" },
   { name: "Data Validation", level: 85, group: "Analysis" },
-  { name: "Exploratory Analysis", level: 85, group: "Analysis" },
+  { name: "Exploratory Analysis", level: 95, group: "Analysis" },
   { name: "Statistical Analysis", level: 75, group: "Analysis" },
-  { name: "Reporting", level: 82, group: "Analysis" },
+  { name: "Reporting", level: 95, group: "Analysis" },
 
-  { name: "Power BI", level: 80, group: "Visualization" },
-  { name: "Matplotlib", level: 78, group: "Visualization" },
+  { name: "Power BI", level: 85, group: "Visualization" },
+  { name: "Matplotlib", level: 85, group: "Visualization" },
   { name: "Plotly", level: 75, group: "Visualization" },
   { name: "Tableau", level: 60, group: "Visualization" },
 
-  { name: "Scikit-learn", level: 78, group: "Machine Learning" },
-  { name: "Logistic Regression", level: 82, group: "Machine Learning" },
-  { name: "Classification", level: 78, group: "Machine Learning" },
-  { name: "Regression", level: 75, group: "Machine Learning" },
-  { name: "Feature Engineering", level: 72, group: "Machine Learning" },
-  { name: "Model Evaluation", level: 80, group: "Machine Learning" },
-  { name: "Hyperparameter Tuning", level: 70, group: "Machine Learning" },
-  { name: "SMOTE", level: 70, group: "Machine Learning" },
+  { name: "Scikit-learn", level: 85, group: "Machine Learning" },
+  { name: "Logistic Regression", level: 85, group: "Machine Learning" },
+  { name: "Classification", level: 85, group: "Machine Learning" },
+  { name: "Regression", level: 85, group: "Machine Learning" },
+  { name: "Feature Engineering", level: 85, group: "Machine Learning" },
+  { name: "Model Evaluation", level: 85, group: "Machine Learning" },
+  { name: "Hyperparameter Tuning", level: 85, group: "Machine Learning" },
+  { name: "SMOTE", level: 85, group: "Machine Learning" },
 
-  { name: "Jupyter", level: 88, group: "Tools" },
+  { name: "Jupyter", level: 85, group: "Tools" },
   { name: "Streamlit", level: 75, group: "Tools" },
-  { name: "GitHub", level: 70, group: "Tools" },
-  { name: "Microsoft Office", level: 92, group: "Tools" },
+  { name: "GitHub", level: 85, group: "Tools" },
+  { name: "Microsoft Office", level: 95, group: "Tools" },
 
   { name: "Quality Control", level: 90, group: "Professional" },
-  { name: "Documentation", level: 88, group: "Professional" },
+  { name: "Documentation", level: 95, group: "Professional" },
   { name: "Problem Solving", level: 85, group: "Professional" },
-  { name: "Team Collaboration", level: 85, group: "Professional" },
+  { name: "Team Collaboration", level: 95, group: "Professional" },
 ];
 
 // Optional polish for specific GitHub repos (key = exact repo name).
