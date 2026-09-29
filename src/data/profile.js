@@ -6,7 +6,7 @@ export const profile = {
   name: "Yemi Mubaraqat Onifade",
   shortName: "Yemi Mubaraqat Onifade",
   role: "Data Scientist",
-  headline: "I turn health and public-service data into models and dashboards people can act on.",
+  headline: "I turn data into insights through analysis, visualisation, and machine learning.",
   location: "Nigeria",
   email: "yemimubaraqat@gmail.com",
   github: "Mubaraqat", // GitHub username: projects are pulled from here
